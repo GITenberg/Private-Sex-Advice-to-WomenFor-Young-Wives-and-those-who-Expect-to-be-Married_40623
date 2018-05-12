@@ -1,0 +1,27 @@
+_repo: Private-Sex-Advice-to-WomenFor-Young-Wives-and-those-who-Expect-to-be-Married_40623
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40623-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Armitage, Robert B.
+    alias: Armitage, R. B.
+    gutenberg_agent_id: '40734'
+    url: http://www.gutenberg.org/2009/agents/40734
+description: ''
+gutenberg_issued: '2012-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Health and hygiene'
+- !lcsh 'Sex instruction'
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+title: 'Private Sex Advice to Women: For Young Wives and those who Expect to be Married'
+url: http://www.gutenberg.org/ebooks/40623
